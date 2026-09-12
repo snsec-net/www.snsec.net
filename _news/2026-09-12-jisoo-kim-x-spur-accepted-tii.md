@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-[Jisoo Kim](/people/#jisoo-kim)’s paper, “X-SPUR: Explainable Surprisal-Based Protocol-Aware Unsupervised Reasoning for Automotive Ethernet Intrusion Detection,” has been accepted for publication in *IEEE Transactions on Industrial Informatics (TII)*, a leading journal in the field with a [2025 Journal Impact Factor of 9.8](https://iten.ieee-ies.org/featured-news/2026/ieee-ies-publications-achieve-strong-2025-journal-impact-factors/) (Q1). Congratulations, Jisoo!
+[Jisoo Kim](/people/#jisoo-kim)’s paper, “X-SPUR: Explainable Surprisal-Based Protocol-Aware Unsupervised Reasoning for Automotive Ethernet Intrusion Detection,” has been accepted for publication in *IEEE Transactions on Industrial Informatics (TII)*, a leading journal in the field with a [2025 Journal Impact Factor of 9.8](https://iten.ieee-ies.org/featured-news/2026/ieee-ies-publications-achieve-strong-2025-journal-impact-factors/) (Q1). X-SPUR is the first intrinsically explainable deep learning IDS for automotive Ethernet, a networking technology widely adopted in the automotive industry. Congratulations, Jisoo!
