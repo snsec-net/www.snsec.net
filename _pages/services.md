@@ -97,6 +97,7 @@ Impact: Information Disclosure, Denial of Service
 - Elsevier Computers & Security
 - IEEE Networking Letters
 - IEEE Transactions on Vehicular Technology
+- IEEE Transactions on Industrial Cyber-Physical Systems
 - Elsevier Internet of Things
 - SAE International Journal
 - Springer Nature Scientific Reports
