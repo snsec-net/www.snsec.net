@@ -25,6 +25,18 @@ Serving as a **Program Chair** for [the Workshop on AI Dependability (AID'25), c
 
 Serving as a Publicity Co-chair for the 31st IEEE Pacific Rim International Symposium on Dependable Computing (PRDC 2026), coordinating community outreach and call-for-papers promotion.
 
+### Workshop on AI Dependability (AID 2026), IEEE PRDC 2026
+
+A Program committee member for the 2nd IEEE PRDC Workshop on AI Dependability (AID 2026), co-located with IEEE PRDC 2026.
+
+### ICISC 2026, Program Committee
+
+A Program committee member for the International Conference on Information Security and Cryptology (ICISC 2026), organized by the Korea Institute of Information Security & Cryptology.
+
+### Conference on Information Security and Cryptography Winter 2026
+
+A Program committee for the domestic conference "한국정보보호학회 2026년 동계학술대회 (CISC-W'26)".
+
 ### Conference on Information Security and Cryptography Summer 2026
 
 A Program committee for the domestic conference "한국정보보호학회 2026년 하계학술대회 (CISC-S'26)" (Busan BEXCO, 7--8 May 2026).
@@ -39,6 +51,10 @@ A Technical Program Committee (TPC) member for the International Conference on I
 
 ### Conference on Information Security and Cryptography Winter 2025
 A Program committee for the domestion conference ["한국정보보호학회 2025년 동계학술대회 (CISC-W'25)"](https://di0zxmb8pwajl.cloudfront.net/kiisc/conference/ciscs2025/ciscw2025_programbook_v6.pdf).
+
+### Korea Multimedia Society 2025 Spring Conference, Outstanding Paper Selection
+
+A member of the outstanding paper selection committee for the domestic conference "한국멀티미디어학회 2025 춘계학술대회" (Apr 2025).
 
 ### KSAE Automotive Cybersecurity Workshop 2025
 
@@ -101,5 +117,6 @@ Impact: Information Disclosure, Denial of Service
 - Elsevier Internet of Things
 - SAE International Journal
 - Springer Nature Scientific Reports
+- KSII Transactions on Internet and Information Systems
 - IEEE Conference on Future Machine Learning and Data Science (FMLDS 2026)
 - Korea Multimedia Society MITA 2025
