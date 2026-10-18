@@ -7,7 +7,7 @@ nav: false
 nav_order: 2
 ---
 
-**Summary.** I have a total of 11 distinct patent items, with 6 patents registered in Korea and 5 registered in the US; several more applications are filed both internationally and at home.
+**Summary.** I have a total of 11 distinct patent items, with 7 patents registered in Korea, 5 in the US, 2 in China, and 1 in Europe; further applications are pending in Korea, the US, Germany, China, and Europe.
 
 Apparatus and Method for Detecting Vehicle Intrusion
 - Korea, **Reg. No. 10-1853676**, Apr 2018
@@ -21,15 +21,17 @@ Device for Verifying Status and Detecting Anomaly of Vehicle and System Having t
 
 Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and System using the same
 - PCT/KR2020/010141, Jul 2020
-- Korea, App. No. 10-2020-0095518, Jul 2020 (Allowed, May 2026)
+- Korea, **Reg. No. 10-3006770**, Aug 2026
+- China, **Reg. No. CN114467281B**, Jun 2024
 - US, App. No. 17/631,836, Jan 2022
+- Germany, App. No. 112020003655.3, Jan 2022
 
 Method for SDN-based Intrusion Response or Prevention for In-vehicle Network and System using the same
 - Korea, **Reg. No. 10-2870304**, Oct 2025
 - US, **Reg. No. US12127004B2**, Oct 2024
 - PCT/KR2020/010142, Jul 2020
 - Germany, App. No. 112020003658.8, Jan 2022
-- China, App. No. 202080055847.3, Jan 2022
+- China, **Reg. No. CN114208116B**, Dec 2024
 
 Anomaly Detection Model Using Message ID Sequence on Unmanned Moving Objects
 - Korea, **Reg. No. 10-2476359**, Dec 2022
@@ -37,21 +39,24 @@ Anomaly Detection Model Using Message ID Sequence on Unmanned Moving Objects
 
 Generative Adversarial Network Model and Training Method to Generate Message ID Sequence on Unmanned Moving Objects
 - Korea, **Reg. No. 10-2691125**, Jul 2024
-- US, **Reg. No. 12,608,603**, Apr 2026
+- US, **Reg. No. US12608603B2**, Apr 2026
 
 Lightweight Real-Time Anomaly Detection Method Using CAN Message Analysis and Neural Network Model
-- Korea, App. No. 10-2021-0174328, Dec 2021
 - PCT/KR2022/017082, Nov 2022
-- US, **Reg. No. 12,665,916**, Jun 2026
+- US, **Reg. No. US12665916B2**, Jun 2026
 
-Method for detecting anomalies of lidar point cloud data and related device
+Method for Detecting Anomalies of Lidar Point Cloud Data and Related Device
 - PCT/CN2021/114368, Aug 2021
-- US App. 18/584,834, Feb 2024
+- Europe, **Reg. No. EP4363888B1**, Apr 2026
+- US, App. No. 18/584,834, Feb 2024
+- China, App. No. 202180100860.0 (published Mar 2024)
 
 Intrusion Detection Method and Apparatus
 - PCT/CN2021/114574, Aug 2021
-- US, **Reg. No. 12,585,016**, Mar 2026
+- US, **Reg. No. US12585016B2**, Mar 2026 (App. No. 18/587,159, Feb 2024)
+- Europe, App. No. 21954520.9 (published Jun 2024)
+- China, App. No. 202180100897.3 (published Mar 2024)
 
-Model Pre-training Technology and Classification Method for Robust DGA-Generated Domain Detection
+Method and Apparatus for Detecting Domain Generation Algorithm
 - **Inventors:** Seonghoon Jeong, Chaeyoung Lee, Chaeri Jung
-- Korea, App. No. 10-2026-0092483, 2026
+- Korea, App. No. 10-2026-0092483, May 2026
