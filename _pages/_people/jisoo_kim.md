@@ -2,7 +2,7 @@
 
 <i class="fa-solid fa-envelope"></i> sallysooo [a.t.] snsec.net
 
-[Personal website](https://sallysooo.com)
+[Personal website](https://sallysooo.com) &nbsp;|&nbsp; <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6aItteMAAAAJ)
 
 #### SNSec Lab
 * May 2025--Current
