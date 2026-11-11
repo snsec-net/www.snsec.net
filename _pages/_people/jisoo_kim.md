@@ -1,6 +1,6 @@
 ### Jisoo Kim
 
-<i class="fa-solid fa-envelope"></i> sallysooo [a.t.] snsec.net
+<i class="fa-solid fa-envelope"></i> sallysooo [a.t.] snsec.net &nbsp;|&nbsp; <i class="ai ai-orcid"></i> [0009-0007-6075-2385](https://orcid.org/0009-0007-6075-2385)
 
 [Personal website](https://sallysooo.com) &nbsp;|&nbsp; <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com/citations?user=6aItteMAAAAJ)
 
